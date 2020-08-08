@@ -1,0 +1,4 @@
+include ':myjni'
+include ':mylibrary'
+include ':app'
+rootProject.name = "MyService"
